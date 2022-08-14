@@ -6,23 +6,50 @@
  
 ***
 
-[7-Zip](https://www.7-zip.org/a/7z2201-x64.exe) - File Archiver
+[7-Zip](https://www.7-zip.org/download.html) - File Archiver
 
-[Adobe Acrobat Reader](https://get.adobe.com/reader/download?os=Windows+10&name=Reader+DC+2022.002.20191+English+Windows%2864Bit%29&lang=en&nativeOs=Windows+10&accepted=&declined=mss%2Cmsc&preInstalled=&site=landing) - PDF Viewer
+[Adobe Acrobat Reader](https://get.adobe.com/reader/) - PDF Viewer
 
-[Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller/releases/download/v5.4/BCUninstaller_5.4_setup.exe) - Bulk Program Uninstaller
+[Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller/releases) - Bulk Program Uninstaller
 
-[Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming/releases/download/9.5.6/BorderlessGaming9.5.6_admin_setup.exe) - Run Windowed Games in Fullscreen
+[Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming/releases) - Run Windowed Games in Fullscreen
 
-[CPU-Z](https://download.cpuid.com/cpu-z/cpu-z_2.01-en.exe) - System information software
+[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - System information software
 
-[Discord](https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86) - Communication App
+[Discord](https://discord.com/download) - Communication App
 
-[Epic Games Launcher](https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi) - Game Launcher
+[Epic Games Launcher](https://store.epicgames.com/en-US/download) - Game Launcher
 
-[Everything by Voidtools](https://www.voidtools.com/Everything-1.4.1.1017.x64-Setup.exe) - File Search Program
+[Everything by Voidtools](https://www.voidtools.com/) - File Search Program
 
-[HWiNFO64](https://www.fosshub.com/HWiNFO.html?dwl=hwi_726.exe) - Hardware Monitoring Tool
+[GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - System information software
 
-[Office 2021](https://tb.rg-adguard.net/dl.php?go=7713396f) - Microsoft Office Professional Plus 2021
+[HWiNFO64](https://www.hwinfo.com/download/) - Hardware Monitoring Tool
 
+[Office 2021](https://tb.rg-adguard.net/public.php) - Microsoft Office Professional Plus 2021
+
+[Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) - Internet Browser
+
+[MSI Afterburner + Rivatuner](https://www.msi.com/Landing/afterburner/graphics-cards) - Overclocking + Monitoring Utility
+
+[Notepads App](https://apps.microsoft.com/store/detail/notepads-app/9NHL4NSC67WM?hl=en-in&gl=IN) - Better Notepad Alternative
+
+[O&O ShutUp10++](https://www.oo-software.com/en/shutup10) - Antispy tool for Windows 10/11
+
+[Paint.net](https://www.dotpdn.com/downloads/pdn.html) - Better Paint Alternative
+
+[qBittorrent](https://www.fosshub.com/qBittorrent.html) - Torrent Downloader
+
+[ShareX](https://github.com/ShareX/ShareX/releases/) - Screenshot Utility
+
+[Steam](https://store.steampowered.com/about/) - Game Launcher
+
+[VLC Media Player](https://get.videolan.org/vlc/3.0.17.4/win32/vlc-3.0.17.4-win32.exe) - Video Player
+
+[WhatsApp](https://apps.microsoft.com/store/detail/whatsapp-desktop/9NKSQGP7F2NH) - Desktop WhatsApp Client
+
+[WizTree](https://diskanalyzer.com/download) - Disk Space Analyzer
+
+[YTM Desktop](https://github.com/ytmdesktop/ytmdesktop/releases/tag/v1.13.0) - Desktop Youtube Music Client
+
+[Zoom](https://zoom.us/download) - Video Conferencing App
