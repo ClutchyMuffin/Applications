@@ -48,6 +48,8 @@
 
 - [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp-desktop/9NKSQGP7F2NH) - Desktop WhatsApp Client
 
+- [WinAero Tweaker](https://diskanalyzer.com/download) - Windows Settings Tweaker
+
 - [WizTree](https://diskanalyzer.com/download) - Disk Space Analyzer
 
 - [YTM Desktop](https://github.com/ytmdesktop/ytmdesktop/releases/tag/v1.13.0) - Desktop Youtube Music Client
