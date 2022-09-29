@@ -16,17 +16,25 @@
 
 - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - System information software
 
+- [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve#) - Full-Fledged Video Editing Software 
+
 - [Discord](https://discord.com/download) - Communication App
 
 - [Epic Games Launcher](https://store.epicgames.com/en-US/download) - Game Launcher
 
 - [Everything by Voidtools](https://www.voidtools.com/) - File Search Program
 
+- [Fan Control](https://github.com/Rem0o/FanControl.Releases) - Highly Customizable Fan Controlling Software for Windows
+
+- [GIMP](https://www.gimp.org/downloads/) - An Open Source Image Editor
+
 - [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - System information software
 
 - [HWiNFO64](https://www.hwinfo.com/download/) - Hardware Monitoring Tool
 
-- [Office 2021](https://tb.rg-adguard.net/public.php) - Microsoft Office Professional Plus 2021 + [Activation Script](https://github.com/massgravel/Microsoft-Activation-Scripts/releases/tag/1.6)
+- [Microsoft Office 2021](https://tb.rg-adguard.net/public.php) - Microsoft Office Professional Plus 2021 + [Activation Script](https://github.com/massgravel/Microsoft-Activation-Scripts/releases/tag/1.6)
+
+- [Microsoft Visual Studio Code](https://code.visualstudio.com/download) - Open Source Code Editor
 
 - [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) - Internet Browser
 
@@ -36,13 +44,15 @@
 
 - [O&O ShutUp10++](https://www.oo-software.com/en/shutup10) - Antispy tool for Windows 10/11
 
-- [Paint.net](https://www.dotpdn.com/downloads/pdn.html) - Better Paint Alternative
+- [Origin](https://www.origin.com/ind/en-us/store/download) - Game Launcher
 
 - [qBittorrent](https://www.fosshub.com/qBittorrent.html) - Torrent Downloader
 
 - [ShareX](https://github.com/ShareX/ShareX/releases/) - Screenshot Utility
 
 - [Steam](https://store.steampowered.com/about/) - Game Launcher
+
+- [Ubisoft Connect](https://ubisoftconnect.com/en-US/) - Game Launcher
 
 - [VLC Media Player](https://get.videolan.org/vlc/3.0.17.4/win32/vlc-3.0.17.4-win32.exe) - Video Player
 
