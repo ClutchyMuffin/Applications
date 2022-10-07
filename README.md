@@ -46,6 +46,8 @@
 
 - [O&O ShutUp10++](https://www.oo-software.com/en/shutup10) - Antispy tool for Windows 10/11
 
+- [Obsidian](https://obsidian.md/download) - Note Taking App
+
 - [Origin](https://www.origin.com/ind/en-us/store/download) - Game Launcher
 
 - [qBittorrent](https://www.fosshub.com/qBittorrent.html) - Torrent Downloader
