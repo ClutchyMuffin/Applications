@@ -10,6 +10,8 @@
 
 - [Adobe Acrobat Reader](https://get.adobe.com/reader/) - PDF Viewer
 
+- [Battle.Net](https://www.blizzard.com/en-us/apps/battle.net/desktop) - Game Launcher
+
 - [Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller/releases) - Bulk Program Uninstaller
 
 - [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming/releases) - Run Windowed Games in Fullscreen
