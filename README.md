@@ -14,9 +14,15 @@
 
 - [Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller/releases) - Bulk Program Uninstaller
 
+- [Bitwarden](https://bitwarden.com/download/) - Password Manager
+
+- [BleachBit](https://www.bleachbit.org/download/windows) - Junk Cleaner
+
 - [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming/releases) - Run Windowed Games in Fullscreen
 
 - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - System information software
+
+- [CloudFlare WARP](https://1.1.1.1/) - DNS App
 
 - [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve#) - Full-Fledged Video Editing Software 
 
@@ -48,13 +54,15 @@
 
 - [Obsidian](https://obsidian.md/download) - Note Taking App
 
-- [Origin](https://www.origin.com/ind/en-us/store/download) - Game Launcher
+- [Origin](https://www.origin.com/ind/en-us/store/download) OR [EA App](https://www.ea.com/ea-app) - Game Launcher
 
 - [qBittorrent](https://www.fosshub.com/qBittorrent.html) - Torrent Downloader
 
 - [ShareX](https://github.com/ShareX/ShareX/releases/) - Screenshot Utility
 
 - [Steam](https://store.steampowered.com/about/) - Game Launcher
+
+- [Windows Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=en-in&gl=in) - Terminal for Windows
 
 - [Ubisoft Connect](https://ubisoftconnect.com/en-US/) - Game Launcher
 
